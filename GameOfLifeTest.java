@@ -4,6 +4,8 @@ import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
+// @author Ivan Ko
+
 public class GameOfLifeTest {
 	@Test
 	public void testConstructorAndGetters() {
